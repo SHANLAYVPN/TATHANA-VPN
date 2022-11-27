@@ -1,141 +1,144 @@
+{
+   "files": [  
 
 {
-         "ชื่อ" : " Config-Version1.1. " ,
+         "name" : " Config-Version1.1. " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/Config-Version1.1.ovpn"
       },
 {
-         "ชื่อ" : " SG-True-FREE-01 " ,
+         "name" : " SG-True-FREE-01 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S1.ovpn"
       },
       {
-         "ชื่อ" : " SG-True-FREE-02 " ,
+         "name" : " SG-True-FREE-02 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S2.ovpn"
       },
       {
-         "ชื่อ" : " SG-True-FREE-03 " ,
+         "name" : " SG-True-FREE-03 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S3.ovpn"
       },
       {
-         "ชื่อ" : " SG-True-FREE-04 " ,
+         "name" : " SG-True-FREE-04 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S4.ovpn"
       },
       {
-         "ชื่อ" : " SG-True-FREE-05 " ,
+         "name" : " SG-True-FREE-05 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S5.ovpn"
       },
       {
-         "ชื่อ" : " SG-True-FREE-06 " ,
+         "name" : " SG-True-FREE-06 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S6.ovpn"
       },
       {
-         "ชื่อ" : " SG-Dtac-FREE-01 " ,
+         "name" : " SG-Dtac-FREE-01 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S1.ovpn"
       },
       {
-         "ชื่อ" : " SG-Dtac-FREE-02 " ,
+         "name" : " SG-Dtac-FREE-02 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S2.ovpn"
       },
       {
-         "ชื่อ" : " SG-Dtac-FREE-03 " ,
+         "name" : " SG-Dtac-FREE-03 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S3.ovpn"
       },
       {
-         "ชื่อ" : " SG-Dtac-FREE-04 " ,
+         "name" : " SG-Dtac-FREE-04 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S4.ovpn"
       },
       {
-         "ชื่อ" : " SG-Dtac-FREE-05 " ,
+         "name" : " SG-Dtac-FREE-05 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S5.ovpn"
       },
       {
-         "ชื่อ" : " SG-Dtac-FREE-06 " ,
+         "name" : " SG-Dtac-FREE-06 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S6.ovpn"
       },
       {
-         "ชื่อ" : " JP-True-FREE-01 " ,
+         "name" : " JP-True-FREE-01 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/J1.ovpn"
       },
       {
-         "ชื่อ" : " JP-True-FREE-02 " ,
+         "name" : " JP-True-FREE-02 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/J2.ovpn"
       },
       {
-         "ชื่อ" : " JP-True-FREE-03 " ,
+         "name" : " JP-True-FREE-03 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/J3.ovpn"
       },
       {
-         "ชื่อ" : " JP-True-FREE-04 " ,
+         "name" : " JP-True-FREE-04 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/J4.ovpn"
       },
       {
-         "ชื่อ" : " JP-True-FREE-05 " ,
+         "name" : " JP-True-FREE-05 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/J5.ovpn"
       },
       {
-         "ชื่อ" : " JP-Dtac-FREE-01 " ,
+         "name" : " JP-Dtac-FREE-01 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/J1.ovpn"
       },
       {
-         "ชื่อ" : " JP-Dtac-FREE-02 " ,
+         "name" : " JP-Dtac-FREE-02 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/J2.ovpn"
       },
       {
-         "ชื่อ" : " JP-Dtac-FREE-03 " ,
+         "name" : " JP-Dtac-FREE-03 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/J3.ovpn"
       },
       {
-         "ชื่อ" : " JP-Dtac-FREE-04 " ,
+         "name" : " JP-Dtac-FREE-04 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/J4.ovpn"
       },
       {
-         "ชื่อ" : " JP-Dtac-FREE-05 " ,
+         "name" : " JP-Dtac-FREE-05 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/J5.ovpn"
       },
       {
-         "ชื่อ" : " TH-True-FREE-01 " ,
+         "name" : " TH-True-FREE-01 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T1.ovpn"
       },
       {
-         "ชื่อ" : " TH-True-FREE-02 " ,
+         "name" : " TH-True-FREE-02 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T2.ovpn"
       },
       {
-         "ชื่อ" : " TH-True-FREE-03 " ,
+         "name" : " TH-True-FREE-03 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T3.ovpn"
       },
       {
-         "ชื่อ" : " TH-True-FREE-04 " ,
+         "name" : " TH-True-FREE-04 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T4.ovpn"
       },
       {
-         "ชื่อ" : " TH-True-FREE-05 " ,
+         "name" : " TH-True-FREE-05 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T5.ovpn"
       },
       
       {
-         "ชื่อ" : " TH-Dtac-FREE-01 " ,
+         "name" : " TH-Dtac-FREE-01 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T1.ovpn"
       },
       {
-         "ชื่อ" : " TH-Dtac-FREE-02 " ,
+         "name" : " TH-Dtac-FREE-02 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T2.ovpn"
       },
       {
-         "ชื่อ" : " TH-Dtac-FREE-03 " ,
+         "name" : " TH-Dtac-FREE-03 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T3.ovpn"
       },
       {
-         "ชื่อ" : " TH-Dtac-FREE-04 " ,
+         "name" : " TH-Dtac-FREE-04 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T4.ovpn"
       },
       {
-         "ชื่อ" : " TH-Dtac-FREE-05 " ,
+         "name" : " TH-Dtac-FREE-05 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T5.ovpn"
       }
+      
 
 
    ],
-"message":"🚀 Config version - 1 \n📆 Latest update - 27/11/2022\n \n📌What's new 🔥 \n• Added Singapore 5🇸🇬 FREE\n• Added Thailand 5🇹🇭 FREE\n• Added United state 0🇺🇸 FREE\n • Added  Indian 0🇳🇪 FREE\n •Added Unlimited 2🇸🇬 FREE\n• Added Unlimited 2🇺🇸 \n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
+"message":"🚀 Config version - 1 \n📆 Latest update - 27/11/2022\n \n📌What's new 🔥 \n• Added Singapore 6🇸🇬 FREE\n• Added Thailand 5🇹🇭 FREE\n• Added Japan 5🇯🇵 FREE\n • Added  Hongkong 5🇭🇰 FREE \n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
    "title":"Do you want to update?",
    "version": 1
 }
