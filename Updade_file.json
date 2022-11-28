@@ -6,6 +6,46 @@
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/Config-Version1.1.ovpn"
       },
 {
+         "name" : " HK-True-FREE-01 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/H1.ovpn"
+      },
+      {
+         "name" : " HK-True-FREE-02 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/H2.ovpn"
+      },
+      {
+         "name" : " HK-True-FREE-03 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/H3.ovpn"
+      },
+      {
+         "name" : " HK-True-FREE-04 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/H4.ovpn"
+      },
+      {
+         "name" : " HK-True-FREE-05 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/H5.ovpn"
+      },
+      {
+         "name" : " HK-Dtac-FREE-01 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/H1.ovpn"
+      },
+      {
+         "name" : " HK-Dtac-FREE-02 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/H2.ovpn"
+      },
+      {
+         "name" : " HK-Dtac-FREE-03 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/H3.ovpn"
+      },
+      {
+         "name" : " HK-Dtac-FREE-04 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/H4.ovpn"
+      },
+      {
+         "name" : " HK-Dtac-FREE-05 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/H5.ovpn"
+      },
+{
          "name" : " SG-True-FREE-01 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/S1.ovpn"
       },
@@ -133,12 +173,32 @@
       {
          "name" : " TH-Dtac-FREE-05 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T5.ovpn"
+      },
+      {
+         "name" : " ADMIN-AllSIM-VIP-01 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/V1.ovpn"
+      },
+      {
+         "name" : " ADMIN-AllSIM-VIP-02 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/V2.ovpn"
+      },
+      {
+         "name" : " ADMIN-AllSIM-VIP-03 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/V3.ovpn"
+      },
+      {
+         "name" : " ADMIN-AllSIM-VIP-04 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/V4.ovpn"
+      },
+      {
+         "name" : " ADMIN-AllSIM-VIP-05 " ,
+         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/V5.ovpn"
       }
       
 
 
    ],
-"message":"🚀 Config version - 1 \n📆 Latest update - 27/11/2022\n \n📌What's new 🔥 \n• Added Singapore 6🇸🇬 FREE\n• Added Thailand 5🇹🇭 FREE\n• Added Japan 5🇯🇵 FREE\n • Added  Hongkong 5🇭🇰 FREE \n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
+"message":"📁Config version - 1 \n 📆Latest update - 27/11/2022\n \n📌What's new 🔥 \n• Added Singapore 6🇸🇬 FREE\n• Added Thailand 5🇹🇭 FREE\n• Added Japan 5🇯🇵 FREE\n • Added  Hongkong 5🇭🇰 FREE \n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/mr.saeng.messenger  \n \nThank you for support us💙",
    "title":"Do you want to update?",
    "version": 1
 }
