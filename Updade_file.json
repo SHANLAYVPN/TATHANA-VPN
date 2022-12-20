@@ -27,7 +27,7 @@
          "name" : " SG-True-06 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st06.ovpn"
       },
-{
+      {
          "name" : " SG-True-07 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st07.ovpn"
       },
@@ -47,14 +47,6 @@
          "name" : " SG-True-11 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st11.ovpn"
       },
-
-
-
-
-
-
-
-
       {
          "name" : " SG-Dtac-01 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd01.ovpn"
@@ -79,7 +71,7 @@
          "name" : " SG-Dtac-06 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd06.ovpn"
       },
-{
+      {
          "name" : " SG-Dtac-07 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd07.ovpn"
       },
@@ -99,8 +91,7 @@
          "name" : " SG-Dtac-11 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd11.ovpn"
       },
-
-      {
+{
          "name" : " TH-True-01 " ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T1.ovpn"
       },
@@ -147,7 +138,7 @@
 
 
    ],
-"message":"📁Config version - 2 \n 📆Latest update - 20/12/2022\n \n📌What's new 🔥 \n• Added Singapore 11🇸🇬 FREE\n• Added Thailand 5🇹🇭 FREE\n \n📌VIPအကောင့် 🇹🇭 & 🇸🇬 \n• တစ်လမှ၅၀ဘတ် 💰 \n• ကြိုက်ရာသုံး - အကန့်သတ်မရှိ✅ \n• ကြော်ညာမရှိ💯 \n• တစ်လအပြည့်အားမခံ \n• ဆက်သွယ်ပါ👇\nhttps://m.me/mr.saeng.messenger  \n \nThank you for support us💙",
+"message":"📁Config version - 3 \n 📆Latest update - 20/12/2022\n \n📌What's new 🔥 \n• Added Singapore 11🇸🇬 FREE\n• Added Thailand 5🇹🇭 FREE\n \n📌VIPအကောင့် 🇹🇭 & 🇸🇬 \n• တစ်လမှ၅၀ဘတ် 💰 \n• ကြိုက်ရာသုံး - အကန့်သတ်မရှိ✅ \n• ကြော်ညာမရှိ💯 \n• တစ်လအပြည့်အားမခံ \n• ဆက်သွယ်ပါ👇\nhttps://m.me/mr.saeng.messenger  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 2
+   "version": 3
 }
