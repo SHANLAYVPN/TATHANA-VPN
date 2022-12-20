@@ -2,138 +2,138 @@
    "files": [  
 
 {
-         "name" : " SG-True-01 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st01.ovpn"
+         "name" : "SG-True-01" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st01.ovpn"
       },
       {
-         "name" : " SG-True-02 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st02.ovpn"
+         "name" : "SG-True-02" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st02.ovpn"
       },
       {
-         "name" : " SG-True-03 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st03ovpn"
+         "name" : "SG-True-03" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st03ovpn"
       },
       {
-         "name" : " SG-True-04 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st04.ovpn"
+         "name" : "SG-True-04" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st04.ovpn"
       },
       {
-         "name" : " SG-True-05 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st05.ovpn"
+         "name" : "SG-True-05" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st05.ovpn"
       },
       {
-         "name" : " SG-True-06 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st06.ovpn"
+         "name" : "SG-True-06" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st06.ovpn"
       },
       {
-         "name" : " SG-True-07 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st07.ovpn"
+         "name" : "SG-True-07" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st07.ovpn"
       },
       {
-         "name" : " SG-True-08 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st08.ovpn"
+         "name" : "SG-True-08" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st08.ovpn"
       },
       {
-         "name" : " SG-True-09 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st09.ovpn"
+         "name" : "SG-True-09" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st09.ovpn"
       },
       {
-         "name" : " SG-True-10 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st10.ovpn"
+         "name" : "SG-True-10" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st10.ovpn"
       },
       {
-         "name" : " SG-True-11 " ,
+         "name" : "SG-True-11" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st11.ovpn"
       },
       {
-         "name" : " SG-Dtac-01 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd01.ovpn"
+         "name" : "SG-Dtac-01" ,
+         "url" :  https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd01.ovpn"
       },
       {
-         "name" : " SG-Dtac-02 " ,
+         "name" : "SG-Dtac-02" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd02.ovpn"
       },
       {
-         "name" : " SG-Dtac-03 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd03.ovpn"
+         "name" : "SG-Dtac-03" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd03.ovpn"
       },
       {
-         "name" : " SG-Dtac-04 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd04.ovpn"
+         "name" : "SG-Dtac-04" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd04.ovpn"
       },
       {
-         "name" : " SG-Dtac-05 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd05.ovpn"
+         "name" : "SG-Dtac-05" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd05.ovpn"
       },
       {
-         "name" : " SG-Dtac-06 " ,
-         "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd06.ovpn"
+         "name" : "SG-Dtac-06" ,
+         "url" : "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd06.ovpn"
       },
       {
-         "name" : " SG-Dtac-07 " ,
+         "name" : "SG-Dtac-07" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd07.ovpn"
       },
       {
-         "name" : " SG-Dtac-08 " ,
+         "name" : "SG-Dtac-08 l" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd08.ovpn"
       },
       {
-         "name" : " SG-Dtac-09 " ,
+         "name" : "SG-Dtac-09" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd09.ovpn"
       },
       {
-         "name" : " SG-Dtac-10 " ,
+         "name" : "SG-Dtac-10" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd10.ovpn"
       },
       {
-         "name" : " SG-Dtac-11 " ,
+         "name" : "SG-Dtac-11" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd11.ovpn"
       },
       {
-         "name" : " TH-True-01 " ,
+         "name" : "TH-True-01" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T1.ovpn"
       },
       {
-         "name" : " TH-True-02 " ,
+         "name" : "TH-True-02" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/tt02.ovpn"
       },
       {
-         "name" : " TH-True-03 " ,
+         "name" : "TH-True-03" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/tt03.ovpn"
       },
       {
-         "name" : " TH-True-04 " ,
+         "name" : "TH-True-04" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/tt04.ovpn"
       },
       {
-         "name" : " TH-True-05 " ,
+         "name" : "TH-True-05" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/tt05.ovpn"
       },
       
       {
-         "name" : " TH-Dtac-01 " ,
+         "name" : "TH-Dtac-01" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/T1.ovpn"
       },
       {
-         "name" : " TH-Dtac-02 " ,
+         "name" : "TH-Dtac-02" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/td02.ovpn"
       },
       {
-         "name" : " TH-Dtac-03 " ,
+         "name" : "TH-Dtac-03" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/td03.ovpn"
       },
       {
-         "name" : " TH-Dtac-04 " ,
+         "name" : "TH-Dtac-04" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/td04.ovpn"
       },
       {
-         "name" : " TH-Dtac-05 " ,
+         "name" : "TH-Dtac-05" ,
          "url" : " https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/td05.ovpn"
       }
 
 
    ],
-"message":"📁Config version - 4 \n 📆Latest update - 20/12/2022\n \n📌What's new 🔥 \n• Added Singapore 11🇸🇬 FREE\n• Added Thailand 5🇹🇭 FREE\n \n📌VIPအကောင့် 🇹🇭 & 🇸🇬 \n• တစ်လမှ၅၀ဘတ် 💰 \n• ကြိုက်ရာသုံး - အကန့်သတ်မရှိ✅ \n• ကြော်ညာမရှိ💯 \n• တစ်လအပြည့်အားမခံ \n• ဆက်သွယ်ပါ👇\nhttps://m.me/mr.saeng.messenger  \n \nThank you for support us💙",
+"message":"📁Config version - 5 \n 📆Latest update - 20/12/2022\n \n📌What's new 🔥 \n• Added Singapore 11🇸🇬 FREE\n• Added Thailand 5🇹🇭 FREE\n \n📌VIPအကောင့် 🇹🇭 & 🇸🇬 \n• တစ်လမှ၅၀ဘတ် 💰 \n• ကြိုက်ရာသုံး - အကန့်သတ်မရှိ✅ \n• ကြော်ညာမရှိ💯 \n• တစ်လအပြည့်အားမခံ \n• ဆက်သွယ်ပါ👇\nhttps://m.me/mr.saeng.messenger  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 4
+   "version": 5
 }
