@@ -2,6 +2,42 @@
    "files": [  
 
 {
+         "name": "HK-D+T-01",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/hk01.ovpn"
+      },
+      {
+         "name": "HK-D+T-02",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/hk02.ovpn"
+      },
+      {
+         "name": "HK-D+T-03",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/hk03.ovpn"
+      },
+      {
+         "name": "HK-D+T-04",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/hk04.ovpn"
+      },
+      {
+         "name": "HK-D+T-05",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/hk05.ovpn"
+      },
+      {
+         "name": "HK-D+T-06",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/hk06.ovpn"
+      },
+      {
+         "name": "HK-D+T-07",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/hk07.ovpn"
+      },
+      {
+         "name": "HK-D+T-08",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/hk08.ovpn"
+      },
+      {
+         "name": "HK-D+T-09",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/hk09.ovpn"
+      },
+{
          "name": "SG-Dtac-01",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd01.ovpn"
       },
@@ -45,10 +81,6 @@
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd10.ovpn"
       },
       {
-         "name": "SG-Dtac-11",
-         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/sd11.ovpn"
-      },
-      {
          "name": "SG-True-01",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st01.ovpn"
       },
@@ -87,10 +119,6 @@
       {
          "name": "SG-True-10",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st10.ovpn"
-      },
-      {
-         "name": "SG-True-11",
-         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/st11.ovpn"
       },
       {
          "name": "TH-Dtac-01",
@@ -134,7 +162,7 @@
       }
 
    ],
-"message":"🚀 Config version - 2 \n📆 Latest update - 20/12/2022\n \n📌What's new 🔥 \n• Added Singapore 11🇸🇬 FREE\n• Added Thailand 5🇹🇭 FREE\n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/mr.saeng.messenger  \n \nThank you for support us💙",
+"message":"🚀 Config version - 3 \n📆 Latest update - 28/12/2022\n \n📌กรุณากดอัปเดต\n•ทางเราได้แก้ไขไฟล์ใหม่\n•เพื่อให้เร็วแรงกว่าเดิม\n \n📌ဖိုင်အပ်ဒိတ်လုပ်ပေးပါ \n•လိုင်းပိုကောင်းအောင်\n•ကျွန်တော်တိုဖိုင်အသစ်အကုန်ပြန်လုပ်ပေးပါတယ် \n•adminဆက်သွယ်ရန်👤👇\nhttps://m.me/mr.saeng.messenger  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 2
+   "version": 3
 }
