@@ -162,49 +162,73 @@
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/Japan010.ovpn"
       },
       {
-         "name": "TH-Thailand001",
+         "name": "TH-Thailand001-BM",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/TH-Thailand001.ovpn"
       },
       {
-         "name": "TH-Thailand002",
+         "name": "TH-Thailand002-BM",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/TH-Thailand002.ovpn"
       },
       {
-         "name": "TH-Thailand003",
+         "name": "TH-Thailand003-BM",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/TH-Thailand003.ovpn"
       },
       {
-         "name": "TH-Thailand004",
+         "name": "TH-Thailand004-BM",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/TH-Thailand004.ovpn"
       },
       {
-         "name": "TH-Thailand005",
+         "name": "TH-Thailand005-BM",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/TH-Thailand005.ovpn"
       },
       {
-         "name": "TH-Thailand006",
+         "name": "TH-Thailand006-IDC",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/TH-Thailand006.ovpn"
       },
       {
-         "name": "TH-Thailand007",
+         "name": "TH-Thailand007-IDC",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/TH-Thailand007.ovpn"
       },
       {
-         "name": "TH-Thailand008",
+         "name": "TH-Thailand008-IDC",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/TH-Thailand008.ovpn"
       },
       {
-         "name": "TH-Thailand009",
+         "name": "TH-Thailand009-IDC",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/TH-Thailand009.ovpn"
       },
       {
-         "name": "TH-Thailand010",
+         "name": "TH-Thailand010-IDC",
          "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/TH-Thailand010.ovpn"
+      },
+      {
+         "name": "AIS-Thailand001-BM",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/AIS-Thailand001.ovpn"
+      },
+      {
+         "name": "AIS-Thailand002-BM",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/AIS-Thailand002.ovpn"
+      },
+      {
+         "name": "AIS-Thailand003-BM"
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/AIS-Thailand003.ovpn"
+      },
+      {
+         "name": "AIS-Thailand004-IDC",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/AIS-Thailand004.ovpn"
+      },
+      {
+         "name": "AIS-Thailand005-IDC",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/AIS-Thailand005.ovpn"
+      },
+      {
+         "name": "TH-Thailand006-IDC",
+         "url": "https://raw.githubusercontent.com/SHANLAYVPN/TATHANA-VPN/main/AIS-Thailand006.ovpn"
       }
 
 
 ],
-"message":"🚀 Config version - 8 \n📆 Latest update - 05/01/2023\n \n📌กรุณากดอัปเดต\n•ทางเราได้แก้ไขไฟล์ใหม่\n•เพื่อให้เร็วแรงกว่าเดิม\n \n📌ဖိုင်အပ်ဒိတ်လုပ်ပေးပါ \n•လိုင်းပိုကောင်းအောင်\n•ကျွန်တော်တိုဖိုင်အသစ်အကုန်ပြန်လုပ်ပေးပါတယ် \n•Adminဆက်သွယ်ရန်👤👇\nhttps://m.me/mr.saeng.messenger  \n \nThank you for support us💙",
+"message":"🚀 Config version - 9 \n📆 Latest update - 08/01/2023\n \n📌กรุณากดอัปเดต\n•ทางเราได้แก้ไขไฟล์ใหม่\n•เพื่อให้เร็วแรงกว่าเดิม\n \n📌ဖိုင်အပ်ဒိတ်လုပ်ပေးပါ \n•လိုင်းပိုကောင်းအောင်\n•ကျွန်တော်တိုဖိုင်အသစ်အကုန်ပြန်လုပ်ပေးပါတယ် \n•Adminဆက်သွယ်ရန်👤👇\nhttps://m.me/mr.saeng.messenger  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 8
+   "version": 9
 }
